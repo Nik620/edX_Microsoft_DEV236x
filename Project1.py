@@ -1,6 +1,8 @@
 # Create Allergy check code
 # then PASTE THIS CODE into edX
 
+# Created May 1, 2020
+
 # [ ] get input for input_test variable
 input_test = '"'+ input("Please enter things eaten in the last 24 hours: ").lower()+'"'
 
