@@ -1,5 +1,8 @@
 # [ ] create, call and test the str_analysis() function  
 # then PASTE THIS CODE into edX  
+
+# Created May 8, 2020
+
 def str_analysis(string):
     if string.isdigit():
         string = int(string)
