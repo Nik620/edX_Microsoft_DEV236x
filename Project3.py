@@ -1,6 +1,8 @@
 # [ ] create, call and test 
 # then PASTE THIS CODE into edX
 
+# Created May 7, 2020
+
 order_amount = float(input("Enter cheese order weight (numeric value in kg): "))
 unit_price = 5.03 #$5/kilogram
 min_order = 1.5
