@@ -1,5 +1,8 @@
 # [ ] create, call and test fishstore() function 
 # then PASTE THIS CODE into edX
+
+# Created May 6, 2020
+
 def fishstore(fish, price):
     output = "Fish Type: " + fish + " costs $" + price
     return output
